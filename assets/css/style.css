@@ -589,7 +589,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/perfil.jpeg") center center no-repeat;
+  background: url("../img/perfil.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
